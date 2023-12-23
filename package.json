@@ -1,0 +1,29 @@
+{
+  "name": "node.js-pet-mongodb-avatar",
+  "version": "1.0.0",
+  "description": "Amazing pet app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/express/index.js",
+    "dev": "nodemon src/express/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Mushketik",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "commander": "^11.1.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "joi": "^17.11.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.2",
+    "morgan": "^1.10.0",
+    "nanoid": "^3.3.4"
+  },
+  "devDependencies": {
+    "nodemod": "^3.0.6",
+    "nodemon": "^3.0.1"
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "animals": [
+    {
+      "id": "pqKP4ZTU4WQ3SNdvDOBf2",
+      "createdAt": "2023-11-15T19:17:41.004Z",
+      "updatedAt": "2023-11-15T19:17:41.009Z",
+      "name": "Vasyl",
+      "age": 5,
+      "isVaccinated": true,
+      "gender": "male",
+      "species": "cat"
+    },
+    {
+      "id": "M9lyvjx_hxKvk2wu2XZ6f",
+      "createdAt": "2023-11-15T19:18:33.391Z",
+      "updatedAt": "2023-11-15T19:18:33.398Z",
+      "name": "Sirko",
+      "age": 7,
+      "isVaccinated": true,
+      "gender": "male",
+      "species": "dog"
+    },
+    {
+      "id": "uDmzJhQp8TfGS4khqy7nH",
+      "createdAt": "2023-11-15T19:19:27.158Z",
+      "updatedAt": "2023-11-15T19:19:27.163Z",
+      "name": "Lukas",
+      "age": 3,
+      "isVaccinated": false,
+      "gender": "male",
+      "species": "cat"
+    },
+    {
+      "id": "qmKS5gN8xKac0jiLzaQk5",
+      "createdAt": "2023-11-18T10:17:30.081Z",
+      "updateAt": "2023-11-18T10:17:30.081Z",
+      "name": "Vasyl",
+      "age": 5,
+      "isVaccinated": true,
+      "gender": "male",
+      "species": "cat"
+    },
+    {
+      "id": "Nz96c2d1deiogv5xT7rGp",
+      "createdAt": "2023-11-18T11:43:01.161Z",
+      "updateAt": "2023-11-18T11:43:01.161Z",
+      "name": "Murxik",
+      "age": 5,
+      "isVaccinated": true,
+      "gender": "male",
+      "species": "cat"
+    },
+    {
+      "id": "4ox-OfRQtVPZCsqc1dEwX",
+      "createdAt": "2023-11-18T19:30:18.878Z",
+      "updateAt": "2023-11-18T19:30:18.878Z",
+      "name": "Bobik",
+      "age": 5,
+      "isVaccinated": true,
+      "gender": "male",
+      "species": "dog"
+    },
+    {
+      "id": "uzxm9rTAnLRc-MeyM3NLx",
+      "createdAt": "2023-11-26T22:19:13.508Z",
+      "updateAt": "2023-11-26T22:19:13.508Z",
+      "name": "Uzbek",
+      "age": 3,
+      "isVaccinated": false,
+      "gender": "male",
+      "species": "cat"
+    },
+    {
+      "id": "AEzvC11yDiKuq5IQgl0FN",
+      "createdAt": "2023-11-27T12:52:09.105Z",
+      "updateAt": "2023-11-27T12:52:09.105Z",
+      "name": "Uzbek",
+      "age": 3,
+      "isVaccinated": false,
+      "gender": "male",
+      "species": "cat"
+    },
+    {
+      "id": "4lOjWDgKmJ4WaLEtS0geO",
+      "createdAt": "2023-11-27T12:58:52.397Z",
+      "updateAt": "2023-11-27T12:58:52.397Z",
+      "name": "Uzbek",
+      "age": 3,
+      "isVaccinated": false,
+      "gender": "male",
+      "species": "cat"
+    },
+    {
+      "id": "MKkEdGEXZ5N74Mo3aNUwh",
+      "createdAt": "2023-11-27T13:01:18.806Z",
+      "updateAt": "2023-11-27T13:01:18.806Z",
+      "name": "Uzbek",
+      "age": 3,
+      "isVaccinated": false,
+      "gender": "male",
+      "species": "cat"
+    },
+    {
+      "id": "o3jBX9ZwYnPTS1UFUNpBv",
+      "createdAt": "2023-11-27T13:10:43.010Z",
+      "updateAt": "2023-11-27T13:10:43.010Z",
+      "name": "Uzbek",
+      "age": 3,
+      "isVaccinated": false,
+      "gender": "male",
+      "species": "cat"
+    },
+    {
+      "id": "qSBDRHAuhDD_QTOoafttC",
+      "createdAt": "2023-11-27T13:20:18.925Z",
+      "updateAt": "2023-11-27T13:20:18.925Z",
+      "name": "Uzbek",
+      "age": 3,
+      "isVaccinated": false,
+      "gender": "male",
+      "species": "cat"
+    },
+    {
+      "id": "CGlkTFMGQ6NYrbxPe2uNR",
+      "createdAt": "2023-11-27T13:21:22.762Z",
+      "updateAt": "2023-11-27T13:21:22.762Z",
+      "name": "Uzbek",
+      "age": 3,
+      "isVaccinated": false,
+      "gender": "male",
+      "species": "cat"
+    },
+    {
+      "id": "R3w17mYQ3Wi3uiP6RdcCB",
+      "createdAt": "2023-11-27T13:21:33.954Z",
+      "updateAt": "2023-11-27T13:21:33.954Z",
+      "name": "Uzbek",
+      "age": "123",
+      "isVaccinated": false,
+      "gender": "male",
+      "species": "cat"
+    },
+    {
+      "id": "WuWPxkjEhOXoL743cWs_L",
+      "createdAt": "2023-11-27T14:37:13.649Z",
+      "updateAt": "2023-11-27T14:37:13.649Z",
+      "name": "Uzbek",
+      "age": 3,
+      "isVaccinated": false,
+      "gender": "male",
+      "species": "cat"
+    },
+    {
+      "id": "bX1sAlZ_KVKk6F84Yuaf2",
+      "createdAt": "2023-11-27T14:38:03.422Z",
+      "updateAt": "2023-11-27T14:38:03.422Z",
+      "name": "Uzbekqqqqq",
+      "age": 3,
+      "isVaccinated": false,
+      "gender": "male",
+      "species": "cat"
+    },
+    {
+      "id": "WpeqPUSf-sahb_GqMx8lI",
+      "createdAt": "2023-11-27T14:38:55.905Z",
+      "updateAt": "2023-11-27T14:38:55.905Z",
+      "name": "Uzbekqqqqq",
+      "age": 3,
+      "isVaccinated": false,
+      "gender": "male",
+      "species": "cat"
+    },
+    {
+      "id": "8dh3Mt9ZOIh5SBK1mOLuD",
+      "createdAt": "2023-11-27T14:56:38.271Z",
+      "updateAt": "2023-11-27T14:56:38.271Z",
+      "name": "Uzbekqqqqq",
+      "age": 3,
+      "isVaccinated": false,
+      "gender": "male",
+      "species": "cat"
+    },
+    {
+      "id": "ioNRHwt_4lji7VlKq07eV",
+      "createdAt": "2023-11-27T14:58:05.000Z",
+      "updateAt": "2023-11-27T14:58:05.000Z",
+      "name": "Uzbekqqqqq",
+      "age": 3,
+      "isVaccinated": false,
+      "gender": "male",
+      "species": "cat"
+    },
+    {
+      "id": "wXHnHZmTjsewhhm-R7Wav",
+      "createdAt": "2023-11-27T14:59:15.384Z",
+      "updateAt": "2023-11-27T14:59:15.384Z",
+      "name": "Uzbekqqqqq",
+      "age": 3,
+      "isVaccinated": false,
+      "gender": "male",
+      "species": "dadfff"
+    }
+  ]
+}
